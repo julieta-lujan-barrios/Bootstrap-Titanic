@@ -2,7 +2,7 @@
 
 Proyecto de investigación desarrollado para la asignatura **Probabilidad y Estadística** (2do año, Ingeniería en Inteligencia Artificial, UNSTA). El trabajo aplica el método de **remuestreo Bootstrap** para estimar la incertidumbre de distintos estadísticos y evaluar la robustez de un modelo de clasificación entrenado sobre el dataset *Titanic - Machine Learning from Disaster* (Kaggle).
 
-> 📄 Informe completo: [`INFORME_-_PyE_-_Barrios_Chalin_Granito_Sappia.pdf`](INFORME - PyE - Barrios, Chalin, Granito, Sappia.pdf)
+> 📄 Informe completo: [`INFORME_-_PyE_-_Barrios_Chalin_Granito_Sappia.pdf`](INFORME_-_PyE_-_Barrios_Chalin_Granito_Sappia.pdf)
 > 
 > 📓 Notebook: [`PROYECTO_DE_INVESTIGACION_PyE_Barrios_Chalin_Granito_Sappia.ipynb`](PROYECTO_DE_INVESTIGACION_PyE_Barrios_Chalin_Granito_Sappia.ipynb)
 
@@ -55,4 +55,4 @@ El intervalo de confianza del Accuracy tiene una amplitud de apenas ~3 puntos po
 
 ## Referencias
 
-Ver bibliografía completa en el [informe](INFORME_-_PyE_-_Barrios_Chalin_Granito_Sappia.pdf), incluyendo Efron (1979) *Bootstrap Methods: Another Look at the Jackknife* y Chan (2021) *Introduction to Probability for Data Science*.
+Ver bibliografía completa en el [informe](INFORME_-_PyE_-_Barrios_Chalin_Granito_Sappia.pdf)), incluyendo Efron (1979) *Bootstrap Methods: Another Look at the Jackknife* y Chan (2021) *Introduction to Probability for Data Science*.
