@@ -55,4 +55,4 @@ El intervalo de confianza del Accuracy tiene una amplitud de apenas ~3 puntos po
 
 ## Referencias
 
-Ver bibliografía completa en el [informe](INFORME_-_PyE_-_Barrios_Chalin_Granito_Sappia.pdf)), incluyendo Efron (1979) *Bootstrap Methods: Another Look at the Jackknife* y Chan (2021) *Introduction to Probability for Data Science*.
+Ver bibliografía completa en el [informe](INFORME_-_PyE_-_Barrios_Chalin_Granito_Sappia.pdf), incluyendo Efron (1979) *Bootstrap Methods: Another Look at the Jackknife* y Chan (2021) *Introduction to Probability for Data Science*.
