@@ -4,7 +4,7 @@ Proyecto de investigación desarrollado para la asignatura **Probabilidad y Esta
 
 > 📄 Informe completo: [`INFORME_-_PyE_-_Barrios_Chalin_Granito_Sappia.pdf`](INFORME_-_PyE_-_Barrios_Chalin_Granito_Sappia.pdf)
 > 
-> 📓 Notebook: [`PROYECTO_DE_INVESTIGACION_PyE_Barrios_Chalin_Granito_Sappia.ipynb`](PROYECTO_DE_INVESTIGACION_PyE_Barrios_Chalin_Granito_Sappia.ipynb)
+> 📓 Notebook: [`PROYECTO_DE_INVESTIGACION_PyE_Barrios.ipynb`](PROYECTO_DE_INVESTIGACION_PyE_Barrios.ipynb)
 
 
 ## Equipo
